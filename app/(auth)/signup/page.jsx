@@ -1,7 +1,7 @@
-
+import SignUpComponent from "@/components/auth/signup"
 
 export default function SignUp() {
     return <div>
-        hello from SignUp
+        <SignUpComponent/>
     </div>
 }
